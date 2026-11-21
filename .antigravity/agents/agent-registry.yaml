@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-pakistan-canal-and-intervention-historian
-  name: Pakistan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-pakistan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_pk_001
+    name: Pakistan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_002
+    name: Pakistan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_003
+    name: Pakistan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_004
+    name: Pakistan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_005
+    name: Pakistan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_006
+    name: Pakistan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_007
+    name: Pakistan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_008
+    name: Pakistan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_009
+    name: Pakistan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_010
+    name: Pakistan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_011
+    name: Pakistan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_012
+    name: Pakistan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_013
+    name: Pakistan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_014
+    name: Pakistan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_015
+    name: Pakistan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_016
+    name: Pakistan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_017
+    name: Pakistan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_018
+    name: Pakistan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_019
+    name: Pakistan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_020
+    name: Pakistan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_021
+    name: Pakistan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_022
+    name: Pakistan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_023
+    name: Pakistan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_024
+    name: Pakistan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_025
+    name: Pakistan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_026
+    name: Pakistan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_027
+    name: Pakistan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_028
+    name: Pakistan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_029
+    name: Pakistan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_030
+    name: Pakistan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_031
+    name: Pakistan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_032
+    name: Pakistan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_033
+    name: Pakistan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_034
+    name: Pakistan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_035
+    name: Pakistan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_036
+    name: Pakistan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_037
+    name: Pakistan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_038
+    name: Pakistan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_039
+    name: Pakistan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_040
+    name: Pakistan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_041
+    name: Pakistan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_042
+    name: Pakistan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_043
+    name: Pakistan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_044
+    name: Pakistan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_045
+    name: Pakistan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_046
+    name: Pakistan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_047
+    name: Pakistan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_048
+    name: Pakistan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_049
+    name: Pakistan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_050
+    name: Pakistan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_051
+    name: Pakistan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_052
+    name: Pakistan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_053
+    name: Pakistan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_054
+    name: Pakistan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_055
+    name: Pakistan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_056
+    name: Pakistan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_057
+    name: Pakistan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_058
+    name: Pakistan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_059
+    name: Pakistan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_060
+    name: Pakistan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_061
+    name: Pakistan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_062
+    name: Pakistan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_063
+    name: Pakistan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_064
+    name: Pakistan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_065
+    name: Pakistan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_066
+    name: Pakistan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_067
+    name: Pakistan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_068
+    name: Pakistan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_069
+    name: Pakistan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_070
+    name: Pakistan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_071
+    name: Pakistan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_072
+    name: Pakistan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_073
+    name: Pakistan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_074
+    name: Pakistan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_075
+    name: Pakistan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_076
+    name: Pakistan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_077
+    name: Pakistan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_078
+    name: Pakistan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_079
+    name: Pakistan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_080
+    name: Pakistan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_081
+    name: Pakistan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_082
+    name: Pakistan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_083
+    name: Pakistan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_084
+    name: Pakistan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_085
+    name: Pakistan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_086
+    name: Pakistan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_087
+    name: Pakistan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_088
+    name: Pakistan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_089
+    name: Pakistan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_090
+    name: Pakistan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_091
+    name: Pakistan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_092
+    name: Pakistan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_093
+    name: Pakistan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_094
+    name: Pakistan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_095
+    name: Pakistan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_096
+    name: Pakistan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_097
+    name: Pakistan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_098
+    name: Pakistan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_099
+    name: Pakistan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_100
+    name: Pakistan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_101
+    name: Pakistan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_102
+    name: Pakistan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_103
+    name: Pakistan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_104
+    name: Pakistan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_105
+    name: Pakistan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_106
+    name: Pakistan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_107
+    name: Pakistan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_108
+    name: Pakistan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_109
+    name: Pakistan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_110
+    name: Pakistan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_111
+    name: Pakistan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_112
+    name: Pakistan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_113
+    name: Pakistan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_114
+    name: Pakistan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_115
+    name: Pakistan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_116
+    name: Pakistan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_117
+    name: Pakistan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_118
+    name: Pakistan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_119
+    name: Pakistan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_120
+    name: Pakistan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_121
+    name: Pakistan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_122
+    name: Pakistan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_123
+    name: Pakistan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_124
+    name: Pakistan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_125
+    name: Pakistan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_126
+    name: Pakistan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_127
+    name: Pakistan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_128
+    name: Pakistan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_129
+    name: Pakistan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_130
+    name: Pakistan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_131
+    name: Pakistan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_132
+    name: Pakistan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_133
+    name: Pakistan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_134
+    name: Pakistan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_135
+    name: Pakistan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_136
+    name: Pakistan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_137
+    name: Pakistan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_138
+    name: Pakistan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_139
+    name: Pakistan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_140
+    name: Pakistan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_141
+    name: Pakistan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_142
+    name: Pakistan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_143
+    name: Pakistan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_144
+    name: Pakistan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_145
+    name: Pakistan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_146
+    name: Pakistan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_147
+    name: Pakistan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_148
+    name: Pakistan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_149
+    name: Pakistan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_150
+    name: Pakistan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_151
+    name: Pakistan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_152
+    name: Pakistan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_153
+    name: Pakistan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_154
+    name: Pakistan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_155
+    name: Pakistan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_156
+    name: Pakistan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_157
+    name: Pakistan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_158
+    name: Pakistan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_159
+    name: Pakistan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_160
+    name: Pakistan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_161
+    name: Pakistan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_162
+    name: Pakistan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_163
+    name: Pakistan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_164
+    name: Pakistan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_165
+    name: Pakistan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_166
+    name: Pakistan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_167
+    name: Pakistan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_168
+    name: Pakistan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_169
+    name: Pakistan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pk_170
+    name: Pakistan Agent 170
+    status: ACTIVE_SCAFFOLD
